@@ -7,7 +7,7 @@ Me chamo Guilherme, tenho 25 anos e sou do interior de Minas Gerais.
 🚀 Buscando minha primeira oportunidade na área de tecnologia  
 🛠️ Conhecimentos em: PHP, Java, SQL, JavaScript, React
 
-### 📌 Gosto muito e fazem parte da minha vida:
+### 📌 Hobbies e interesses:
 - Video games
 - Tecnologia 
 - Academia
