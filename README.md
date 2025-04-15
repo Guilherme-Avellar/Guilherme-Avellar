@@ -14,10 +14,5 @@ Me chamo Guilherme, tenho 25 anos e sou do interior de Minas Gerais.
 
 ### 🌱 Em constante aprendizado
 - Projetos acadêmicos (PBL) voltados para soluções reais  
-- Repositórios públicos com exercícios e estudos práticos  
-- Busco evoluir como desenvolvedor back-end. 
-
----
-
-### 💾 O que há nos repositórios?  
+- Busco evoluir como desenvolvedor back-end.
 - Além de projetos, compartilho estudos informais com códigos comentados, explorando conceitos das linguagens.
