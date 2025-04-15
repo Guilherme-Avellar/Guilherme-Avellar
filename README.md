@@ -1,10 +1,9 @@
 ## Olá! 👋  
-Me chamo Guilherme, tenho 25 anos e sou do interior de Minas Gerais.
+Me chamo Guilherme, tenho 25 anos e sou do interior de Minas Gerais.  
 
 🎓 Estudante de Engenharia de Software na FIAP  
 💻 Focado em desenvolvimento back-end  
-📚 Atualmente estudando PHP, Java, SQL e boas práticas de desenvolvimento  
-🚀 Buscando minha primeira oportunidade na área de tecnologia  
+📚 Atualmente estudando PHP, Java, SQL e boas práticas de desenvolvimento   
 🛠️ Conhecimentos em: PHP, Java, SQL, JavaScript, React
 
 ### 📌 Hobbies e interesses:
@@ -17,3 +16,8 @@ Me chamo Guilherme, tenho 25 anos e sou do interior de Minas Gerais.
 - Projetos acadêmicos (PBL) voltados para soluções reais  
 - Repositórios públicos com exercícios e estudos práticos  
 - Busco evoluir como desenvolvedor back-end. 
+
+---
+
+### 💾 O que há nos repositórios?  
+- Além de projetos, compartilho estudos informais com códigos comentados, explorando conceitos das linguagens.
