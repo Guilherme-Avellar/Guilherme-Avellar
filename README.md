@@ -7,8 +7,8 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Avellar&show_icons=true&theme=github_dark&count_private=true&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Avellar&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <div align="center">
