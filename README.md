@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student at FIAP  
 💻 Focused on software development  
-📚 Currently studying Java, Kotlin, Cloud, NoSQL, AI, and the foundations of computer science  
+📚 Currently studying: Java · Kotlin · C/C++ · Cloud Computing · Computer Science Fundamentals  
 🧑‍💻 [Code Masters](https://github.com/Code-Masters-F)
 
 ---
